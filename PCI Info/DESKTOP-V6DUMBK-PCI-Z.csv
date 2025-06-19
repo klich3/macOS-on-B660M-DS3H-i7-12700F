@@ -1,0 +1,35 @@
+Motherboard: Gigabyte Technology Co., Ltd. B660M DS3H AX DDR4 (BIOS version: F23a)
+Processor: 12th Gen Intel(R) Core(TM) i7-12700F, 20 logical CPUs
+Available memory (MB): 16216
+Operating system: Microsoft Windows 10
+Computer name: DESKTOP-V6DUMBK	User name: Work-Station
+Bridge;Intel Corporation;;;PCI bridge;8086:7ABA 1458:5001
+Mass storage controller;Intel Corporation;Alder Lake-S PCH SATA Controller [AHCI Mode];;SATA controller;8086:7AE2 1458:B005
+Mass storage controller;Silicon Motion, Inc.;SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers;;Non-Volatile memory controller;126F:2263 126F:2263
+Display controller;Advanced Micro Devices, Inc. [AMD/ATI];Navi 21 [Radeon RX 6800/6800 XT / 6900 XT];Speedster MERC 319 AMD Radeon RX 6900 XT Black;VGA compatible controller;1002:73BF 1EAE:6901
+Memory controller;Intel Corporation;Alder Lake-S PCH Shared SRAM;;RAM memory;8086:7AA7 0000:0000
+Serial bus controller;Intel Corporation;Alder Lake-S PCH Serial IO I2C Controller #1;;Serial bus controller;8086:7ACD 0000:0000
+Bridge;Advanced Micro Devices, Inc. [AMD/ATI];Navi 10 XL Upstream Port of PCI Express Switch;;PCI bridge;1002:1478 0000:0000
+Serial bus controller;Intel Corporation;Alder Lake-S PCH SPI Controller;;Serial bus controller;8086:7AA4 0000:0000
+Bridge;Intel Corporation;Alder Lake-S PCH PCI Express Root Port #1;;PCI bridge;8086:7AB8 1458:5001
+Bridge;Intel Corporation;12th Gen Core Processor PCI Express x4 Controller #0;;PCI bridge;8086:464D 0000:0000
+Serial bus controller;Intel Corporation;Alder Lake-S PCH Serial IO I2C Controller #5;;Serial bus controller;8086:7AFD 0000:0000
+Serial bus controller;Intel Corporation;Alder Lake-S PCH Serial IO I2C Controller #3;;Serial bus controller;8086:7ACF 0000:0000
+Network controller;Broadcom Inc. and subsidiaries;BCM43602 802.11ac Wireless LAN SoC;;Network controller;14E4:43BA 106B:0133
+Network controller;Realtek Semiconductor Co., Ltd.;RTL8125 2.5GbE Controller;;Ethernet controller;10EC:8125 1458:E000
+Multimedia controller;Intel Corporation;Alder Lake-S HD Audio Controller;;Audio device;8086:7AD0 1458:A194
+Serial bus controller;Intel Corporation;Alder Lake-S PCH Serial IO I2C Controller #0;;Serial bus controller;8086:7ACC 0000:0000
+Bridge;Intel Corporation;Alder Lake-S PCH PCI Express Root Port #25;;PCI bridge;8086:7AC8 0000:0000
+Serial bus controller;VIA Technologies, Inc.;VL805/806 xHCI USB 3.0 Controller;;USB controller;1106:3483 1106:3483
+Bridge;Advanced Micro Devices, Inc. [AMD/ATI];Navi 10 XL Downstream Port of PCI Express Switch;;PCI bridge;1002:1479 1002:1479
+Serial bus controller;Intel Corporation;Alder Lake-S PCH SMBus Controller;;SMBus;8086:7AA3 1458:5001
+Serial bus controller;Intel Corporation;Alder Lake-S PCH Serial IO I2C Controller #4;;Serial bus controller;8086:7AFC 0000:0000
+Serial bus controller;Intel Corporation;Alder Lake-S PCH USB 3.2 Gen 2x2 XHCI Controller;;USB controller;8086:7AE0 1458:5007
+Serial bus controller;Intel Corporation;Alder Lake-S PCH Serial IO I2C Controller #2;;Serial bus controller;8086:7ACE 0000:0000
+Communication controller;Intel Corporation;Alder Lake-S PCH HECI Controller #1;;Communication controller;8086:7AE8 1458:1C3A
+Network controller;MEDIATEK Corp.;MT7921K (RZ608) Wi-Fi 6E 80MHz;;Network controller;14C3:0608 14C3:0608
+Bridge;Intel Corporation;12th Gen Core Processor Host Bridge/DRAM Registers;;Host bridge;8086:4668 1458:5000
+Bridge;Intel Corporation;;;ISA bridge;8086:7A86 1458:5001
+Bridge;Intel Corporation;12th Gen Core Processor PCI Express x16 Controller #1;;PCI bridge;8086:460D 1458:5000
+Multimedia controller;Advanced Micro Devices, Inc. [AMD/ATI];Navi 21/23 HDMI/DP Audio Controller;;Audio device;1002:AB28 1002:AB28
+Bridge;Intel Corporation;Alder Lake-S PCH PCI Express Root Port #2;;PCI bridge;8086:7AB9 1458:5001
